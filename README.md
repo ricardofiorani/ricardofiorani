@@ -1,7 +1,9 @@
 
 # Welcome to my Github Profile! 🚀
 
-Hi, I'm a full-stack software engineer from Brazil 🇧🇷, currently residing in Berlin 🇩🇪. With over 10 years of experience in the field 💻, I have a strong background in PHP and Typescript. In the frontend, I have expertise in VueJS and ReactJS.
+Hi, I'm a full-stack software engineer from Brazil 🇧🇷, currently residing in Berlin 🇩🇪. 
+
+With over 10 years of experience in the field 💻, I have a strong background in PHP and Typescript. In the frontend, I have expertise in VueJS and ReactJS.
 
 I am also the developer behind Pizzuno 🍕, a fun and addictive online multiplayer game similar to UNO.
 
