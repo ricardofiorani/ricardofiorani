@@ -9,5 +9,6 @@ I am also the developer behind Pizzuno 🍕, a fun and addictive online multipla
 
 I believe in writing clean, readable and maintainable code 🛠️. I enjoy working on challenging projects 💡 and continuously learning and improving my skills 📚.
 
-Feel free to take a look at my projects 📂, and connect with me 🙋‍♂️
+Feel free to take a look at my projects 📂, and connect with me 👇
+
 LinkedIn: https://www.linkedin.com/in/ricardofiorani
