@@ -16,7 +16,7 @@
 
 ## 🕹️ Indie Games (Godot / [Comfort Food Games](https://itch.io/profile/comfort-food-games))
 
-- 🐾 **[Bolacha's Dream](https://comfort-food-games.itch.io/bolachas-dream)** – 3D platformer made for Brackeys Game Jam 2025; help a dog navigate a whimsical low-poly dreamworld with an original kalimba & guitalele soundtrack
+- 🐾 **[Bolacha's Dream](https://comfort-food-games.itch.io/bolachas-dream)** – 3D platformer made for Brackeys Game Jam 2025; help Bolacha navigate a whimsical low-poly dreamworld with an original kalimba & guitalele soundtrack
 - 🩴 **[Flip Flop Flip](https://comfort-food-games.itch.io/flip-flop-flip)** – Minimal arcade mini-game: flip your flip-flop to score points
 
 ## 🧩 Open Source
