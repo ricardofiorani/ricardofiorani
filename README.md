@@ -10,6 +10,7 @@
 
 ## 🚀 Current Projects
 
+- 💼 **[CV Lens](https://cvlens.app)** (closed source) – AI-powered platform that helps job seekers instantly evaluate their CV against any job description, giving them a compatibility score and actionable tips to improve their chances of getting hired
 - 🍕 **[Pizzuno](https://pizz.uno)** (closed source) – Online multiplayer card game (think UNO) — built from scratch, live and running
 - 📈 **[Le Chiffre](https://lechiffre.app)** (closed source) – AI-driven stock signal platform for European equities; ingests financial newsletters, extracts trade signals, real-time alerts
 - 👗 **[ChangeClothes.ai](https://changeclothes.ai)** (closed source) – Virtually swap outfits in any photo using diffusion-model AI
