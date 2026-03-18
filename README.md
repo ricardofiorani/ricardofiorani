@@ -29,11 +29,6 @@
 
 📦 All PHP packages on [Packagist](https://packagist.org/packages/ricardofiorani/)
 
-## 💼 What I'm Doing
-
-- Building AI-powered side projects (Le Chiffre, ChangeClothes.ai)
-- Obsessed with clean systems, fast shipping, and pragmatic tech choices
-
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardofiorani&show_icons=true&theme=dark&hide_border=true)](https://github.com/ricardofiorani)
